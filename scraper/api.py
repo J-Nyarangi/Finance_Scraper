@@ -15,9 +15,9 @@ logger = logging.getLogger(__name__)
 
 # Database configuration - Consider moving to environment variables
 DB_CONFIG = {
-    'host': '127.0.0.1',
-    'user': 'root',
-    'password': 'Truphy@11343',
+    'host': 'localhost',
+    'user': 'user',
+    'password': 'password',
     'database': 'finance_db',
     'cursorclass': pymysql.cursors.DictCursor  # This will return results as dictionaries
 }
