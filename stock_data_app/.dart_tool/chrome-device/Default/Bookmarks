@@ -1,0 +1,118 @@
+{
+   "checksum": "e66ef54c4e2ba952c88ffa921c452d6e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13238236114251748",
+            "date_last_used": "0",
+            "guid": "c3b753dc-886f-490e-94e6-4d734e9ece80",
+            "id": "6",
+            "name": "Почта",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://mail.yandex.ru/?win=444&clid=2100778-004",
+            "visit_count": 0
+         }, {
+            "date_added": "13238236114249745",
+            "date_last_used": "0",
+            "guid": "e135cb49-2884-4438-88e9-68c7d19aab60",
+            "id": "7",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.yandex.ru/?win=444&clid=2100778-004",
+            "visit_count": 0
+         }, {
+            "date_added": "13342097423702201",
+            "date_last_used": "0",
+            "guid": "e1d9bc71-ab84-4971-a121-f0d9a811ce70",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Use Fail2ban to Secure Your Server (A Tutorial) | Linode Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linode.com/docs/guides/using-fail2ban-to-secure-your-server-a-tutorial/",
+            "visit_count": 0
+         }, {
+            "date_added": "13343733089431138",
+            "date_last_used": "0",
+            "guid": "cd71384c-6a6d-4a6e-8d0b-55fae5fb25ac",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "seed-labs/manuals/vm/seedvm-manual.md at master · seed-labs/seed-labs · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md",
+            "visit_count": 0
+         }, {
+            "date_added": "13357979205372197",
+            "date_last_used": "0",
+            "guid": "ba168a9a-6a77-4ea6-b34a-d5683d75c5b5",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "COVID-19-EDA-tutorial/notebooks/1-COVID-19-EDA-solution.ipynb at master · datacamp/COVID-19-EDA-tutorial · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/datacamp/COVID-19-EDA-tutorial/blob/master/notebooks/1-COVID-19-EDA-solution.ipynb",
+            "visit_count": 0
+         }, {
+            "date_added": "13360137795677958",
+            "date_last_used": "0",
+            "guid": "117a658e-b1f0-4011-a150-6240ab657878",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IoT-BBMS: Internet of Things-Based Baby Monitoring System for Smart Cradle | IEEE Journals & Magazine | IEEE Xplore",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ieeexplore.ieee.org/document/8760478",
+            "visit_count": 0
+         } ],
+         "date_added": "13381415174662943",
+         "date_last_used": "0",
+         "date_modified": "13360137795677958",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13381415174662945",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13381415174662947",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCImdxGmUAQAAKg4QABgBIAAoBTAAOABAABIAKhhFUjNuK1UzbnpHMmR4bVlENG91cFZRPT1IA6AGDBKtAQgKEqgBChxheDJ5cmdFWEw3RmxUdTU1UXhZL1FLWUtEb0k9EiRiYTE2OGE5YS02YTc3LTRlYTYtYjM0YS1kNTY4M2Q3NWM1YjUYACAAKAAw98qSp+8xOMPMkqfvMUDDzJKn7zFKHDJmWE5hTXBiUWlXSkNPZ0NSelRxVGtDem1WND1aHyId93QwaXpwSk1vWmljWW1IMFgzaEJmemZXck9Pcz1lwKUousI+AmAFEq0BCAkSqAEKHGdybzRSbGtuREQ1WUMya1E3QkVSUEpRNTZWOD0SJGNkNzEzODRjLTZhNmQtNGE2ZS04ZDBiLTU1ZmFlNWZiMjVhYxgAIAAoADC4v7mm7zE45uju38YxQObo7t/GMUocdEFVZG9IMWpxVGxwOVd4Rk1tUzV3cHFGUE5jPVofIh3ub3hNcTJIQ3R5MWdOeUxENHpWbGgxQzRjaXk4PWXApSi6wj4CYAUSrQEICBKoAQocZlRCQlpTbGE4M2dLcmlsajdQZTRRTGVScU5NPRIkZTFkOWJjNzEtYWI4NC00OTcxLWExMjEtZjBkOWE4MTFjZTcwGAAgACgAMPm+j5K0MTiNwI+StDFAjcCPkrQxShxGZkUrWng3T3FFOWlYWjJ3WmxYQ3Y5bU5rUnM9Wh8iHd0xZTVKQndxNUprNTBqYUFTR2ViYzZRVVN2RzA9ZTGeuBbCPgJgBRKsAQgGEqcBChxZRnNFMmlnbjE2VUp2RDJ0RkpmQ0huYkxFdjQ9EiQ5NTViMWNlYy03ZWUzLTRkZWYtYWEwZC01YWQxYzA1NmY0YzAYACAAKAAwj6+HjO8vOOTH+8/sL0Dkx/vP7C9KHGtQTWJpbjJtdDNRcTZzMUd6dUM2NkdQQ29Xcz1aHiIcdkh3TUdMTDNxdy9yTzVGWVlCVzhZVXkwZFNFPWUAAAAAwj4CYAUSrQEIBxKoAQocWHpjZU5FZ2ZvSkZBQzUvaTFnVGFKaEhFSmM0PRIkMzY2MGNlMTgtOGJlNy00NTYxLWEzN2EtNWJhOWQzYWRkNTk3GAAgACgAMI+vh4zvLzj0x/vP7C9A9Mf7z+wvShxNMkJOejJyRURtbTg3S3EyeXdWMUdRWkNUdHc9Wh8iHbs2VGY4ZFZQZ3ZsODAwOEZGa1NPM2VzUnFRdUU9ZQAAAADCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ1NTFlMGE2OC1jOTk2LTVkMGEtYmYzZC05NjU4YmM2MjdmNjcYACAAKAAw8pbOibEwOMXH+8/sL0DFx/vP7C9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkN2JmYmJiMTItNzIwMy01YThjLWFlYTItNzFjYzE3ODgyYWI0GAAgACgAMPKWzomxMDjIxvvP7C9AyMb7z+wvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEq0BCAsSqAEKHCtXcWl1ODZrTFpQNzZSZ1NkYVZxYk5SWUNOMD0SJDExN2E2NThlLWIxZjAtNDAxMS1hMTUwLTYyNDBhYjY1Nzg3OBgAIAAoADDUw4qw9zE4lLi4rPcxQJS4uKz3MUocWWUyRjRRa1JlTXZLZXkrcWd1ZHJFL3NXYWJJPVofIh37Q2E0NWJUZSs3NTB6WEUvM0JiM3Q5MmpadXpvPWVJ9icLwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYWNjYjk0OGQtMWFhMS01ZGEwLTkwZTItMDkwODAwMTljYTFiGAAgACgAMPKWzomxMDi4xvvP7C9AuMb7z+wvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

@@ -1,0 +1,10 @@
+^C:\SRC\FLUTTERPROJECT\STOCK_DATA_APP\BUILD\WINDOWS\X64\CMAKEFILES\7A2C1BBDE5D93B980F1E0209E44F4AE5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/src/flutterProject/stock_data_app/windows -BC:/src/flutterProject/stock_data_app/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/src/flutterProject/stock_data_app/build/windows/x64/stock_data_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
