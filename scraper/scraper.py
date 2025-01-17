@@ -16,9 +16,9 @@ logging.basicConfig(
 
 # Database configuration
 DB_CONFIG = {
-    "host": "127.0.0.1",
-    "user": "root",
-    "password": "Truphy@11343",
+    "host": "localhost",
+    "user": "user",
+    "password": "password",
     "database": "finance_db"
 }
 
